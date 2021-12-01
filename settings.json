@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDelete": false,
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "json.maxItemsComputed": 5000000,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange",
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
